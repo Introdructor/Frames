@@ -1,9 +1,9 @@
-package dev.jahir.frames.app
+package dev.ripple.walls.app
 
 import com.github.javiersantos.piracychecker.PiracyChecker
 import dev.jahir.frames.ui.activities.FramesActivity
 
-class MainActivity : FramesActivity() {
+ class MainActivity : FramesActivity() {
 
     /**
      * These things here have the default values. You can delete the ones you don't want to change
