@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package dev.ripple.walls.app
 
 import dev.jahir.frames.muzei.FramesArtProvider
 

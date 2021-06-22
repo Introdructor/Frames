@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
-    <string name="json_url">https://github.com/Introdructor/hycon_wallpapers_json/blob/main/kwgt.json</string>
+    <string name="json_url">https://raw.githubusercontent.com/Introdructor/hycon_wallpapers_json/main/kwgt.json</string>
 
     <!--
     Enable immediate download

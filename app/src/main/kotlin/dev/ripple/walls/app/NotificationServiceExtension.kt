@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package dev.ripple.walls.app
 
 /* TODO: Remove comment marks to enable
 import android.content.Context
